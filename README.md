@@ -1,13 +1,6 @@
 # BrainLogic LinkedIn Connect
 
-## 🎯 Event Objectives
-- Guide students in creating and optimizing LinkedIn profiles  
-- Provide real alumni profiles as learning references  
-- Improve headlines, summaries, and experience sections  
-- Teach effective networking and connection strategies  
-- Share industry insights and career guidance from alumni  
-
----
+- Submit your Profile: https://forms.gle/LoAxP5PD1oVbcgv7A
 
 ## 👥 Alumni Motivators Directory
 
